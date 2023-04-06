@@ -17,7 +17,7 @@ class _homeeeeState extends State<homeeee> {
     return MaterialApp(
       home: Scaffold(body: Column(children: [
 
-        Text("Name"),
+        Text("Namee"),
         Text("Phone"),
         Text("Email"),
         Text("Password"),
